@@ -2,7 +2,7 @@
 flash page for counting down go live date of infobrix web application.
 
 to run this using docker use the following command:
-**docker-compose build && docker-compose up**
+**docker-compose up --build -d**
 
 then access the flash page on **localhost:4080/**
 
